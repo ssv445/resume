@@ -1,0 +1,453 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Shyam Sunder Verma",
+    "label": "Lead & Manager, Full Stack Team",
+    "image": "",
+    "email": "er.ssverma@gmail.com",
+    "phone": "9982231113",
+    "url": "",
+    "summary": "Shyam is passionate​ to​ problem solving, he eagerly learn​s and adapt to​ solve​ problems. \nHe leads his team by example and firmly believes in empathy & innovation driven teams.\nHe​ represented Ready Bytes in the​ delegation​ of​ NASSCOM’s​ first​ India-US​ Startup​ Konnect​. (2015)\n\nShyam founded Ready Bytes in 2009. In last 12 years it have built more than 10+ web/mobile products. \n● PayPlans: Worlds #1 Joomla Payment Component (2009-2017, Sold)\n● Products Review​ Analysis &  Recommendation Engine​ ReadyViews​ (2015-2018 Shutdown)\n● Exchange​ Rate​ analysis​ platform​ ExchangeRateIQ​ (2016-2018, Sold)\n● 15+​ mobile​ apps​ in​ last​  years (2015-Present)\n\nReady Bytes have worked for clients as well\n● MoviesEveryWhere: Most affordable video streaming platform for film festivals (2020-Present)\n● SafiMoney : Cross-Border and Unified Wallet for Personal, Business, Remittance purpose. (2017-20)\n● Film Distribution and Rights Management (2019-20)\n● chittorgarh.com : India #1 IPO website, We worked in optimization and mobile apps (2017-Present)\n\nHis Skills \n● Domain: eCommerce, Finance, CMS, Video\n● Technologies: Web​ Apps, Mobile Apps, Crawlers, Scrapers JAM Stack, Headless API, Serverless\n● Data​ Structure​ and​ Algorithms\n● JavaScript, PHP, C,​ C++,​ \n● MySQL,​ Redis,​ MongoDB,​ Neo4J, GraphQL\n\nShyam​ graduated in Computer Science in 2005, His early work during his education and job (2003-2009) was around hardware compilers and optimizations. During graduation he published 2 international​ papers on​ power​ optimization​ in​ mobiles​ for​ multimedia​ softwares.\n\nHis current research & work focus includes Micro-Service, Event-Oriented, Serverless Systems.\nHe can be contacted at: shyam@readybytes.in",
+    "location": {
+      "countryCode": "US",
+      "address": "India"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ssv445",
+        "url": "https://www.linkedin.com/in/ssv445/"
+      },
+      {
+        "network": "Twitter",
+        "username": "ssv445",
+        "url": "https://twitter.com/ssv445"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Ready Bytes Software Labs Pvt. Ltd.",
+      "position": "Founder & Technology Head",
+      "startDate": "2009-08-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": "At Ready Bytes Software Labs (RBSL), We have strong technical and domain expertise in eCommerce. We can build web-application, android application, iOs application, browser extensions, progressive web apps, command line apps and web scrappers & crawlers.",
+      "url": "https://www.linkedin.com/company/919878",
+      "location": "India"
+    },
+    {
+      "name": "Ready Views Software Labs",
+      "position": "Founder",
+      "startDate": "2015-08-31",
+      "endDate": "2017-02-28",
+      "highlights": [],
+      "summary": "ReadyViews is an Artificially Intelligent recommendation engine, based on analysis of customer reviews on leading online stores.",
+      "url": "https://www.linkedin.com/company/10417017",
+      "location": "Bhilwara Area, India"
+    },
+    {
+      "name": "Cadence Design Systems",
+      "position": "Member of Technical Staff",
+      "startDate": "2007-05-31",
+      "endDate": "2009-08-31",
+      "highlights": [],
+      "summary": null,
+      "url": "https://www.linkedin.com/company/2157",
+      "location": "Noida Area, India"
+    },
+    {
+      "name": "Government Engineering College",
+      "position": "Lecturer",
+      "startDate": "2006-09-30",
+      "endDate": "2007-05-31",
+      "highlights": [],
+      "summary": null,
+      "url": "",
+      "location": "Bhilwara Area, India"
+    },
+    {
+      "name": "Flextronics Software Systems",
+      "position": "Software Engineer",
+      "startDate": "2006-01-31",
+      "endDate": "2006-07-31",
+      "highlights": [],
+      "summary": null,
+      "url": "https://www.linkedin.com/company/3229",
+      "location": null
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "M.L.V Textile & Engineering College,Bhilwara",
+      "area": "Information Technology",
+      "studyType": "B. Tech.",
+      "startDate": "2001-12-31",
+      "endDate": "2005-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Mahesh Shiksha Sadan, Bhilwara",
+      "area": "",
+      "studyType": "",
+      "startDate": "1989-12-31",
+      "endDate": "1999-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [
+    {
+      "name": "Reuse of eWaste Using 3-Tier Architecture of Processor Reconfiguration",
+      "publisher": "International Conference on Information & Communication Technology, Dehradun, India",
+      "releaseDate": "2007-07-26",
+      "summary": "",
+      "url": ""
+    },
+    {
+      "name": "Quality-Driven Runtime Bitwidth Optimization in Mobile Devices",
+      "publisher": "Reconfigurable Communication-centric Systems-on-Chip, Montpellier, France.",
+      "releaseDate": "2007-06-18",
+      "summary": "",
+      "url": ""
+    },
+    {
+      "name": "Quality Driven Dynamic Low Power Reconfiguration of Handhelds",
+      "publisher": "International workshop on Applied Reconfigurable Computing (ARC2006) Delft, The Netherlands",
+      "releaseDate": "2006-03-01",
+      "summary": "",
+      "url": ""
+    },
+    {
+      "name": "Requested-QoS Driven Runtime Reconfiguration of Mobile Devices",
+      "publisher": "15th International Conference on Field Programmable Logic and Applications",
+      "releaseDate": "2005-08-24",
+      "summary": "",
+      "url": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "docker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "caddy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Recruiting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team Mentoring",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Laravel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "API Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "New Relic",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "NestJS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sentry",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Product Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Open Source",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sphinx",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Express.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Kibana",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Serverless Computing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Redis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Problem Solving",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Queues",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Docker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "jQuery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MongoDB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Joomla",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Phing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "WebSocket",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JAMstack",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Full-Stack Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ElasticSearch",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Subversion",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HAProxy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vuex",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React Native",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Progressive Web Applications (PWAs)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "E-commerce",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vue.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Redux.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cloud Firestore",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HLS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CMS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "eCommerce",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Mohit Joshi",
+      "reference": "I have known Shyam for more than a decade now. I have been following Readybytes since its inception and I have worked with Readybytes on quite a few occasions. \n\nHe is a creator/innovator in true sense. He and Readybytes team have created many products in past and I like their execution style (start small and scale later). I also like his passion towards Environment and Green projects. \n\nShyam is one of the best Software Architect/Engineer I have encountered in my career. He is detail oriented and asks right questions at right time."
+    },
+    {
+      "name": "Ravit Turjeman",
+      "reference": "A refreshing, and greatly appreciated, level of professionalism, knowledge, and responsiveness. Shyam and his team are a delight to work with. Always present a profound understanding of an issue or challenge, and demonstrate the knowledge to  resolve it in the best way possible, thinking a few steps ahead, with a friendly, positive attitude. I have worked with many developers, in-house and outsourced, and can undoubtedly recommend Shyam and the Ready Bytes team."
+    },
+    {
+      "name": "Parth Lawate",
+      "reference": "Shyam is one of the most passionate engineers I've met. We worked together in the Joomla space and in the time I've known him he created a well respected extensions brand that added great value to the ecosystem. it's been a pleasure knowing and working with him !"
+    },
+    {
+      "name": "Yoram Schaffer",
+      "reference": "Shyam is a person every technological entrepreneur would want to see on his or her side: A brilliant, committed and creative engineer, with vast and knowledge or every imaginable field, a quick learner and a person with deep understanding of the \"bigger picture\", encompassing the delicate interactions between technology, market trends, psychology, service and support, pricing and commercial considerations."
+    },
+    {
+      "name": "Meenal Devpura",
+      "reference": "Shyam is very good learner , manager and teacher . He is very focused and talented guy. He delivers his best in all whatever he do.I would really like to work with him in future also.I wish him All the very best for his future en-devour."
+    },
+    {
+      "name": "Anish Mathur",
+      "reference": "Shyam is a very technically talented person.His style of work is something that every developer must adopt.While talking to him you ought to be very precise and to the point. He is a brilliant developer and can resolve the biggest problems in matter of minutes.His help and guidance during the work of \"JoomlaXi Products and JPayplans\" was remarkable and never to be forgot.The discussion was always very fruitful, with me adding my knowledge after every discussion.I sincerely hope that our professional paths cross once again :)"
+    },
+    {
+      "name": "Sudhakar Mani",
+      "reference": "Shyam is one of the best architects in joomla extension development I had ever met.Jomsocial Multi-Profile type and JPayplans are the feathers in his cap.At a  very young age, he had established a company which took over as a storm in joomla world.Best of luck for your future ventures.."
+    },
+    {
+      "name": "Md.Mahabubur Rahaman.  🇧🇩 ( Kilo Alpha Zebra Alpha Lima )",
+      "reference": "Shyam is a creative and sincerer for outstanding job. His fluency of good skill about web application developing awesome also fix it carefully. I like his creativity and responsibility."
+    },
+    {
+      "name": "Johnny Crivello",
+      "reference": "Shyam exhibits expertise and professionalism in his work. He provides exceptional and timely service to his clients, in addition to providing solutions at a very reasonable price. I'm happy to recommend him with the confidence that he can and will deliver superior results."
+    },
+    {
+      "name": "Jean Machuron",
+      "reference": "Shyam is an excellent professional person very keen to find quick and efficient solutions to problems asked."
+    }
+  ],
+  "projects": [
+    {
+      "name": "JoomlaXi",
+      "startDate": "2012-06-30",
+      "summary": "JoomlaXi.com is a collection of supreme joomla products. Currently, most of them are dependent on JomSocial and Joomla (like JomSocial Profile Types, JoomlaXi User Search, JomSocial User Search, User Import Export). Recently, JoomlaXi Forms has been released on the domain, this tool can be used to manage your HTML forms on your Joomla site. The website holds other premium and free products which are to provide an advancement in the core Joomla functionalities.",
+      "url": "http://www.joomlaxi.com/",
+      "endDate": "2012-06-30"
+    },
+    {
+      "name": "PayPlans",
+      "startDate": "2011-01-31",
+      "summary": "PayPlans is an open-source membership software for selling your services online. It provides automatic subscriptions and effortless billing management.\n\n\n1. A Walk in a Park: PayPlans installer makes it damn easy for you to install the software and start selling membership in seconds.\n2. Wallet & Transactions: Wallet acts as a money bag for each and every customer. Here, the amount paid by the customer is received and consumed according to the subscribed plan. Each and every transaction is monitored and entries are created for every reception of amount and dispatch of the amount.\n3. Modifiers: These can be used to add additional taxes on already created plans. Also, discounts can be given in a similar manner.\n4. Theme Builder: It is available with premium plan of PayPlans 2.0. Here, you can create your own themes to provide a customized look to your front-end content. Internally, we have provided you with 35 eye-catching themes.\n5. MaaS (Migration as a Service): You can easily migrate to PayPlans from other subscription systems like AMember, AmbraSubs, AEC and many others. For such matters you have to contact our development team.\n6. Registration Integration: PayPlans system is integrated with Joomla, JomSocial and Community Builder registration. PayPlans also provide quick registration process by itself.\n7. Application Integration: Integrated with many known applications and processors like Paypal processor, JomSocial, JSPT, Emailer, Docman, Google Analytics, Moset Tree, K2 and JUGA .\n8. Unlimited Membership Plans: Your membership site can have as many “plans” as you wish to offer. There is no restriction on how many plans you can create. Fixed, Recurring, Trial 1 , Trial 2, Forever fee any type of plan can be set-up.\n9. Powerful Discount System: In PayPlans, Discount coupon code is easily generated. Coupon code can be usable Yearly, Monthly or Daily basis according to requirement.",
+      "url": "http://jpayplans.com"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
